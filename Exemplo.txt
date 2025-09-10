@@ -2,3 +2,8 @@
     Vscode
     Frameworks
     IDE
+
+2. Linguagens de programação
+    javascript
+    python
+    Ruby
